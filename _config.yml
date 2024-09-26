@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Provis Games"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ProvisGames"
@@ -79,7 +79,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : dxxZ13CBhiSND8ai_l-lDgvzFEjxCzWZH94ad3xCJB0
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
